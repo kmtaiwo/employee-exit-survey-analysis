@@ -1,2 +1,2 @@
-# Project-Clean-And-Analyze-Employee-Exit-Surveys
+# Employee-Exit-Survey-Data-Analysis
 #### This project is about cleaning,transforming and analysing two datasets from 2 different Employee's exit surveys. The goal is to present insights into the relationships between the lengths of time of employment and reasons for resignation or dissatisfaction for young  and older employees. It is also intended to answer the question of whether younger and older employees are resigning due to some kind of dissatisfaction or for other reasons.
